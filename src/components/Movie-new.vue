@@ -47,7 +47,7 @@
 						<input type="text" v-model="addMovie.genre" /><br />
 					</div>
 				</div>
-			    <div class="row margin>
+			    <div class="row margin">
 			    	<div class="col-md-4">
 			    		<router-link to="/"><button v-on:click="newMovie">Ajouter</button></router-link>
 			    	</div>
